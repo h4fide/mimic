@@ -1,1 +1,1 @@
-# mimic
+# Mimic App
