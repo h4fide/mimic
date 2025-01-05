@@ -1,0 +1,33 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Documents
+*.md text diff=markdown
+*.txt text
+*.pdf binary
+
+# Graphics
+*.png binary
+*.jpg binary
+*.gif binary
+*.ico binary
+*.svg text
+
+# Source files
+*.java text diff=java
+*.kt text diff=kotlin
+*.xml text
+*.properties text
+*.gradle text
+*.pro text
+*.bat text
+*.sh text eol=lf
+
+# Android specific
+*.aar binary
+*.jar binary
+*.apk binary
+
+# Git files
+*.gitattributes text
+*.gitignore text
