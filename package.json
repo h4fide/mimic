@@ -1,0 +1,13 @@
+
+{
+  "name": "mimic",
+  "version": "1.0.",
+  "description": "App For Lazy People And Lkosala",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo \"No build specified\" && exit 0",
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "author": "h4fide",
+  "license": "MIT"
+}
