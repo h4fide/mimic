@@ -23,6 +23,8 @@ jobs:
 
     - name: Install dependencies
       run: npm install
+      working-directory: ./mimic
 
     - name: Run build
       run: npm run build
+      working-directory: ./mimic
