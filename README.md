@@ -17,18 +17,19 @@ Mimic is an Android application designed to mimic users using Altissia platform 
 
 ## ✨ Features
 - Runs in the background
-- Tracks spent time on the app
-- Easily switches between languages
-- Supports multiple accounts
-- Utilizes configurations (similar to cookies) for login
-- Completely safe to use; tested by many users over the past 3 months
-- Handles network errors
-- Consumes only 0.6% battery per hour
-- Minimal memory usage
-- Low data usage (1-2 MB per 20 hours of usage)
-- No tracking or collecting of personal data
-- See the [VirusTotal Scan](https://www.virustotal.com/gui/file/8d7a29c74b9bf60764271e41abbbe261c09976b65d010f695ba7c21d0bcf10d8/detection) for more information
-- By using this app, you agree to the [Terms and Conditions](https://mimicapp.web.app/terms.html)
+- Tracks spent time on the app 🕐
+- Easily switches between languages 🌐
+- Supports multiple accounts 🫂
+- Utilizes configurations (cookies) for login 
+- Completely safe to use; tested by many users over the past 3 months ✅
+- Handles network errors 
+- Consumes only 0.6% battery per hour 🔋
+- Minimal memory usage 
+- Low data usage (1-2 MB per 20 hours of usage) 📉
+- No tracking or collecting of personal data 🚫
+- See the [VirusTotal Scan](https://www.virustotal.com/gui/file/8d7a29c74b9bf60764271e41abbbe261c09976b65d010f695ba7c21d0bcf10d8/detection) for more information ✅
+
+By using this app, you agree to the [Terms and Conditions](https://mimicapp.web.app/terms.html) ❗
 
 ## 📸 Screenshots
 <p align="center">
@@ -36,7 +37,7 @@ Mimic is an Android application designed to mimic users using Altissia platform 
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="screenshots/home.png" width="200" alt="Home Screen"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="screenshots/Logs.png" width="200" alt="Statistics Screen"/>
+  <img src="screenshots/logs.png" width="200" alt="Logs Screen"/>
 </p>
 
 <p align="center">
