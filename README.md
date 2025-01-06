@@ -20,7 +20,8 @@ Mimic is an Android application designed to mimic users using Altissia platform 
 - Tracks spent time on the app 🕐
 - Easily switches between languages 🌐
 - Supports multiple accounts 🫂
-- Utilizes configurations (cookies ) for login 
+- Utilizes configurations (cookies) for login
+- The configuration is encrypted and stored locally on the device 📦
 - Completely safe to use; tested by many users over the past 3 months ✅
 - Handles network errors 
 - Consumes only 1.32% battery per hour 🔋
