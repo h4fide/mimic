@@ -31,14 +31,6 @@ Mimic is an Android application designed to mimic users using Altissia platform 
 
 By using this app, you agree to the [Terms and Conditions](https://mimicapp.web.app/terms.html) ❗
 
-## 🎯 Its Works 
-Check out these before and after screenshots showing the progress made using Mimic:
-
-<p align="center">
-  <img src="screenshots/b1.png" width="300" alt=""/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="screenshots/a1.png" width="300" alt=""/>
-</p>
 
 ## 📸 Screenshots
 <p align="center">
@@ -70,6 +62,15 @@ Download the latest version from the [Releases](https://github.com/h4fide/mimic/
 - The app will be available on the Play Store soon..
 - Fetching spent time from the Altissia platform may not work at day time (i don't know why, but it works at night during my tests 🤷‍♂️ )
 - The app is not open-source, but the code is available for review upon request.
+
+## 🎯 Yes it works
+I have tested the app by leaving the app running while I sleep 😴  
+
+| **Before going to bed** | **After waking up** |
+|------------|-----------|
+| ![Screenshot 1](screenshots/b1.png) | ![Screenshot 2](screenshots/a1.png) |
+<h4 align="left" style="font-style: italic; text-shadow: 2px 2px 4px rgba(100, 06, 250, 0.5);">I believe you can now complete your 100 hours in just 4 days 😎 </h4>
+
 
 ## ⚠️ Disclaimer
 <h4 align="center" color="red">This app is for educational purposes only. The developer is not responsible for any misuse of this app.</h4>
