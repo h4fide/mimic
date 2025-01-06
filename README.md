@@ -60,7 +60,7 @@ Download the latest version from the [Releases](https://github.com/h4fide/mimic/
 
 ## 📝 Notes
 - The app will be available on the Play Store soon..
-- Fetching spent time from the Altissia platform may not work at day time (i don't know why, but it works at night during my tests 🤷‍♂️ )
+- Fetching spent time from the Altissia may not work sometimes at day time due to the platform's restrictions (i don't know why, but it works fine at night during my tests 🤷‍♂️)
 - The app is not open-source, but the code is available for review upon request.
 
 ## 🎯 Yes it works
