@@ -67,7 +67,7 @@ Download the latest version from the [Releases](https://github.com/h4fide/mimic/
 ## 🎯 Yes it works
 I have tested the app by leaving the app running while I sleep 😴  
 
-| **Before going to bed** | **After waking up** |
+| **FROM** | **TO** |
 |------------|-----------|
 | ![Screenshot 1](screenshots/b1.png) | ![Screenshot 2](screenshots/a1.png) |
 <h4 align="left" style="font-style: italic; text-shadow: 2px 2px 4px rgba(100, 06, 250, 0.5);">I believe you can now complete your 100 hours in just 4 days 😎 </h4>
