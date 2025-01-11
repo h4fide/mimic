@@ -1,6 +1,6 @@
 <p align="center"><a href="#"><img src="https://mimicapp.web.app/assets/icon.png" alt="Mimic" height="120"/></a></p>
 <h1 align="center">Mimic</h1>
-<p align="center">Android App For Lazy People And Lkosala.</p>
+<p align="center">Android App For Lazy People and Lkosala.</p>
 
 <p align="center">
   <a href="https://github.com/h4fide/mimic/actions/workflows/build.yml"><img src="https://img.shields.io/github/actions/workflow/status/h4fide/mimic/build.yml?branch=main" alt="Build Status"></a>
@@ -22,15 +22,18 @@ Mimic is an Android application designed to mimic users using Altissia platform 
 - Supports multiple accounts 🫂
 - Utilizes configurations (cookies) for login
 - The configuration is encrypted and stored locally on the device 📦
-- Completely safe to use; tested by many users over the past 3 months ✅
-- Handles network errors 
+- Manages errors to prevent them from triggering alerts in Sentry
 - Consumes only 1.32% battery per hour 🔋
 - Minimal memory usage 
-- Low data usage (1-2 MB per 20 hours of usage) 📉
+- Low data usage (1-2 MB per 20 hours of background usage) 📉
 - No tracking or collecting of personal data 🚫
 - See the [VirusTotal Scan](https://www.virustotal.com/gui/file/8d7a29c74b9bf60764271e41abbbe261c09976b65d010f695ba7c21d0bcf10d8/detection) for more information ✅
 
 By using this app, you agree to the [Terms and Conditions](https://mimicapp.web.app/terms.html) ❗
+
+## 🚀 Upcoming Features
+
+> ***LMOJAWIB**  Inspired by [LMOJAWIB-ofppt-langues](https://github.com/mchklt/LMOJAWIB-ofppt-langues)
 
 
 ## 📸 Screenshots
@@ -49,23 +52,23 @@ By using this app, you agree to the [Terms and Conditions](https://mimicapp.web.
 </p>
 
 ## 📥 Installation
-Download the latest version from the [Releases](https://github.com/h4fide/mimic/releases) page or visit  [Mimic Website](https://mimicapp.web.app) 
+Download the latest version from the [Releases](https://github.com/h4fide/mimic/releases) page or visit [Mimic Website](https://mimicapp.web.app) 
 
 1. Open the app
 2. Go to the `Settings` then click on the `Configurations`
 3. Get your Config from this browser extension [Extractease](https://extractease.netlify.app/)
 4. Paste the configuration in the app
 5. Click on the `Save` button
-7. Click on the `Start` on the home screen
-8. Sit back and relax while the app does the work for you 😎
+6. Click on the `Start` on the home screen
+7. Sit back and relax while the app does the work for you 😎
 
 ## 📝 Notes
 - The app will be available on the Play Store soon..
 - Fetching spent time from the Altissia may not work sometimes at day time due to the platform's restrictions (i don't know why, but it works fine at night during my tests 🤷‍♂️)
 - The app is not open-source, but the code is available for review upon request.
 
-## 🎯 Yes it works
-I have tested the app by leaving the app running while I sleep 😴  
+## 🎯 Yes, it works
+> ### I have tested the app by letting it run while I sleep 😴  
 
 | **FROM** | **TO** |
 |------------|-----------|
