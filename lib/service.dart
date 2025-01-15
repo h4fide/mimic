@@ -1,7 +1,5 @@
-// This code is just example code to show how mimic app work
-// This code is not working and just for educational purpose
-
 import 'dart:async';
+import 'dart:io';
 import 'dart:math';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
@@ -59,6 +57,10 @@ class PlatformActivitySimulator {
           );
           
           return response.statusCode == 200;
+        } on SocketException catch (e) {
+          print('SocketException: $e');
+          if (attempt == 2) rethrow;
+          await Future.delayed(Duration(seconds: pow(2, attempt).toInt()));
         } catch (e) {
           if (attempt == 2) rethrow;
           await Future.delayed(Duration(seconds: pow(2, attempt).toInt()));
