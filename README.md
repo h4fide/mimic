@@ -33,7 +33,7 @@ By using this app, you agree to the [Terms and Conditions](https://mimicapp.web.
 
 ## 🚀 Upcoming Features
 
-> - ⏹️ **LMOJAWIB**  Inspired by [LMOJAWIB-ofppt-langues](https://github.com/mchklt/LMOJAWIB-ofppt-langues)
+> - ⏹️ **Global Links Support** Support for all Altissia-based domains
 > - ⏹️ **Add Activities**
 
 
