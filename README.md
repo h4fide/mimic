@@ -34,6 +34,7 @@ By using this app, you agree to the [Terms and Conditions](https://mimicapp.web.
 ## 🚀 Upcoming Features
 
 > - ⏳ **Global Links Support**
+> - ⏳ **Add Activities**
 
 
 ## 📸 Screenshots
