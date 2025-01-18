@@ -33,8 +33,7 @@ By using this app, you agree to the [Terms and Conditions](https://mimicapp.web.
 
 ## 🚀 Upcoming Features
 
-> - ⏳ **Global Links Support** Support for all Altissia-based domains
-> - ⏳ **Add Activities**
+> - ⏳ **Global Links Support**
 
 
 ## 📸 Screenshots
