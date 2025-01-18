@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: const MyHomePage(title: 'Flutter Demo Home Page'),
+      home: const MyHomePage(title: 'Mimic Demo'),
     );
   }
 }
@@ -36,6 +36,7 @@ class _MyHomePageState extends State<MyHomePage> {
       _counter++;
     });
   }
+
 
   @override
   Widget build(BuildContext context) {
@@ -61,7 +62,10 @@ class _MyHomePageState extends State<MyHomePage> {
               ),
               const SizedBox(height: 20),
               const Text(
-                'We apologize for any disappointment, but this application is proprietary and not available as open source software. We appreciate your interest but must maintain our intellectual property rights.',
+                'We apologize for any disappointment 😔\n but this application is proprietary and not available as open source. '
+                '\nWe appreciate your interest but must maintain our intellectual property rights.'
+
+                '\n\nThank you for understanding.',
                 textAlign: TextAlign.center,
                 style: TextStyle(
                   fontSize: 18,
@@ -82,7 +86,7 @@ class _MyHomePageState extends State<MyHomePage> {
       ),
       floatingActionButton: FloatingActionButton(
         onPressed: _incrementCounter,
-        tooltip: 'Increment',
+        tooltip: 'Hello 👀 ',
         child: const Icon(Icons.add),
       ),
     );
