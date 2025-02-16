@@ -33,7 +33,7 @@ By using this app, you agree to the [Terms and Conditions](https://mimicapp.web.
 
 ## 🚀 Upcoming Features
 
-> - ⏳ **Global Links Support**
+> - ✅ ~~Global Link Support~~ (Added in [v1.0.59](https://github.com/h4fide/mimic/releases/tag/v1.0.59 "v1.0.59")). Thanks to `@Quinouu` 🙏
 > - ⏳ **Add Activities**
 
 
