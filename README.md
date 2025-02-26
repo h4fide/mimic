@@ -1,6 +1,6 @@
 <p align="center"><a href="#"><img src="https://mimicapp.web.app/assets/icon.png" alt="Mimic" height="120"/></a></p>
 <h1 align="center">Mimic</h1>
-<p align="center">Get It Done The Easy Way</p>
+<p align="center">Get It Done Zero Effort</p>
 
 <p align="center">
   <a href="https://github.com/h4fide/mimic/actions/workflows/build.yml"><img src="https://img.shields.io/github/actions/workflow/status/h4fide/mimic/build.yml?branch=main" alt="Build Status"></a>
