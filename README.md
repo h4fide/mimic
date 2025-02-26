@@ -1,6 +1,6 @@
 <p align="center"><a href="#"><img src="https://mimicapp.web.app/assets/icon.png" alt="Mimic" height="120"/></a></p>
 <h1 align="center">Mimic</h1>
-<p align="center">Android App For Lazy People and Lkosala.</p>
+<p align="center">Get It Done The Easy Way</p>
 
 <p align="center">
   <a href="https://github.com/h4fide/mimic/actions/workflows/build.yml"><img src="https://img.shields.io/github/actions/workflow/status/h4fide/mimic/build.yml?branch=main" alt="Build Status"></a>
@@ -13,7 +13,7 @@
 </p>
 
 ## 📱 About Mimic
-Mimic is an Android application designed to mimic users using Altissia platform for reaching the required hours on the platform without any effort while you are sleeping or doing other things you like. Mimic is a perfect solution for lazy people like me.
+Mimic is an Android application designed to mimic users using Altissia platform for reaching the required hours on the platform with **zero effort** while you are sleeping or doing other things you like. Mimic is a perfect solution for lazy people like me.
 
 ## ✨ Features
 - Runs in the background
@@ -71,9 +71,22 @@ Download the latest version from the [Releases](https://github.com/h4fide/mimic/
 ## 🎯 Yes, it works
 > ### I have tested the app by letting it run while I sleep 😴  
 
-| **FROM** | **TO** |
-|------------|-----------|
-| ![Screenshot 1](screenshots/b1.png) | ![Screenshot 2](screenshots/a1.png) |
+<p align="center">
+  <table>
+    <tr>
+      <th>BEFORE</th>
+      <th>AFTER</th>
+    </tr>
+    <tr>
+      <td><img src="screenshots/b1.png" width="300" alt="Before 1"/></td>
+      <td><img src="screenshots/a1.png" width="300" alt="After 1"/></td>
+    </tr>
+    <tr>
+      <td><img src="screenshots/b2.png" width="300" alt="Before 2"/></td>
+      <td><img src="screenshots/a2.png" width="300" alt="After 2"/></td>
+    </tr>
+  </table>
+</p>
 <h4 align="left" style="font-style: italic; text-shadow: 2px 2px 4px rgba(100, 06, 250, 0.5);">I believe you can now complete your 100 hours in just 4 days 😎 </h4>
 
 
