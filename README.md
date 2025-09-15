@@ -13,7 +13,7 @@
 </p>
 
 ## 📱 About Mimic
-Mimic is an Android application designed to mimic users using Altissia platform for reaching the required hours on the platform with **zero effort** while you are sleeping or doing other things you like. Mimic is a perfect solution for lazy people like me.
+Mimic is an Android application designed to mimic users using Altissia platform for reaching the required hours on the platform with **zero effort** while you are sleeping or doing other things you like. Mimic is a perfect solution for lazy people.
 
 ## ✨ Features
 - Runs in the background
@@ -27,7 +27,7 @@ Mimic is an Android application designed to mimic users using Altissia platform 
 - Minimal memory usage 
 - Low data usage (1-2 MB per 20 hours of background usage) 📉
 - No tracking or collecting of personal data 🚫
-- See the [VirusTotal Scan](https://www.virustotal.com/gui/file/8d7a29c74b9bf60764271e41abbbe261c09976b65d010f695ba7c21d0bcf10d8/detection) for more information ✅
+- See the [VirusTotal Scan](https://www.virustotal.com/gui/file/fec4052d968f8f64c41249d66c2541143d5299e248f0ff9a9d82a57791afc41e/detection) for more information ✅
 
 By using this app, you agree to the [Terms and Conditions](https://mimicapp.web.app/terms.html) ❗
 
@@ -74,8 +74,8 @@ Download the latest version from the [Releases](https://github.com/h4fide/mimic/
 <p align="center">
   <table>
     <tr>
-      <th>BEFORE</th>
-      <th>AFTER</th>
+      <th>FROM</th>
+      <th>TO</th>
     </tr>
     <tr>
       <td><img src="screenshots/b1.png" width="300" alt="Before 1"/></td>
